@@ -1,0 +1,16 @@
+python-telegram-bot==21.3
+Pillow==10.4.0
+qrcode==8.0
+pdf417gen==0.7.1
+scikit-learn==1.5.1
+numpy==2.0.1
+
+Dependency Details:
+
+Package	Version	Purpose
+python-telegram-bot	21.3	Telegram Bot API wrapper
+Pillow	10.4.0	Image processing and manipulation
+qrcode	8.0	QR code generation for payment invoices
+pdf417gen	0.7.1	PDF417 barcode rendering engine
+scikit-learn	1.5.1	Machine learning (IsolationForest)
+numpy	2.0.1	Numerical computing for ML
