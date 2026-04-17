@@ -793,6 +793,9 @@ CREATE TABLE anomaly_logs (
     details TEXT,
     created_date TEXT
 );
+
+
+
 🤖 ML Anomaly Detection
 How It Works
 IsolationForest Model:
