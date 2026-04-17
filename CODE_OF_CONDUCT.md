@@ -70,7 +70,7 @@ reported to the project maintainers responsible for enforcement at:
 
 - **GitHub Issues**: [Report via issue](../../issues) (for non-sensitive matters)
 - **Email**: conduct@[your-domain] (for sensitive matters)
-- **GitHub**: [@yourusername](https://github.com/yourusername)
+- **Telegram**: [@Blackwolfisme](https://t.me/Blackwolfisme)
 
 All complaints will be reviewed and investigated promptly and fairly.
 
